@@ -29,7 +29,7 @@ Unlike other tools, this is **not** just a MIDI mapper. It is a fully-featured, 
 * **Cross-Platform Desktop Apps:** Need an offline native app? Run the lightweight Electron-powered builds on **Windows, macOS (Intel & Apple Silicon), and Linux** (coming soon).
 
 ### 4. Built-in Preset Library & Archive
-* **Hundreds of Classic Presets:** Ships with a pre-loaded archive of hundreds of legendary presets (Fender factory defaults, intheblues libraries, and community favorites).
+* **Hundreds of Classic Presets:** Ships with a pre-loaded archive of hundreds of legendary presets (Fender factory defaults, intheblues libraries, and more than nine thousands of community favourites).
 * **FUSE Compatibility:** Fully compatible with standard `.fuse` XML files. Import and export your presets effortlessly.
 * **Search & Filter:** Instantly filter through massive preset directories to find the exact tone you're looking for.
 
