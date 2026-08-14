@@ -1,8 +1,19 @@
 # Fender® Mustang™ Control App 🎸
 
-| | |
-|---|---|
-| <img src="./logo.png" alt="Mustang Amp Control Logo" width="150"> | **The ultimate modern, cross-platform, and installation-free editor for Fender Mustang™ amplifiers.**<br><br>Say goodbye to outdated software. Control your Fender Mustang I/II/III/IV/V amplifier directly from your web browser or run it as a lightweight native desktop app.<br><br>**[🚀 Try it now: https://mustang.artnettune.com/](https://mustang.artnettune.com/)** |
+<table style="border: none;">
+<tr style="border: none;">
+<td style="border: none; vertical-align: middle; padding-right: 20px;"><img src="./logo.png" alt="Mustang Amp Control Logo" width="200"></td>
+<td style="border: none;">
+
+**The ultimate modern, cross-platform, and installation-free editor for Fender Mustang™ amplifiers.**
+
+Say goodbye to outdated software. Control your Fender Mustang I/II/III/IV/V amplifier directly from your web browser or run it as a lightweight native desktop app.
+
+**[🚀 Try it now: https://mustang.artnettune.com/](https://mustang.artnettune.com/)**
+
+</td>
+</tr>
+</table>
 
 ## 🌟 The Ultimate Fender FUSE™ Replacement
 
