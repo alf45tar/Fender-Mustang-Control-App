@@ -38,9 +38,8 @@ Unlike other tools, this is **not** just a MIDI mapper. It is a fully-featured, 
 ![Mustang Amp Control Main Interface](./main.png)
 
 ### 3. Visual Signal Chain Editor
-* **Interactive Routing:** Visualize your entire signal path from **Stompbox ➡️ Amp Model ➡️ Modulation ➡️ Delay ➡️ Reverb**.
+* **Interactive Routing:** Visualize your entire signal path from **Stompbox ➡️ Amp Model ➡️ Modulation ➡️ Delay ➡️ Reverb ➡️ Cabinet**.
 * **One-Click Bypass:** Toggle individual effects in and out of the signal chain instantly.
-* **Deep Parameter Editing:** Click on any effect block to open a specialized panel to tweak everything from delay feedback times to chorus waveforms.
 * **Drag & Drop Effects:** Easily reorder effects by dragging them along the signal chain to move between pre and post positions, giving you total control over your signal flow.
 
 ![Signal Path Editor](./signal-path.png)
@@ -58,9 +57,9 @@ Unlike other tools, this is **not** just a MIDI mapper. It is a fully-featured, 
 
 ![Audio Player](./audio-player.png)
 
-### 6. Advanced MIDI Control (MIDX-20 Spec)
+### 6. Advanced MIDI Control
 * **MIDI Mapping:** Select any connected MIDI device to control your Mustang.
-* **Foot Controller Ready:** Built-in support for the standard MIDX-20 specification, allowing you to switch presets, bypass effects, and adjust values with expression pedals or MIDI foot controllers.
+* **Foot Controller Ready:** Built-in support for the standard [MIDX-20 specification](https://www.primovasound.com/pdf/MIDX_20_Mustang.pdf), allowing you to switch presets, bypass effects, and adjust values with expression pedals or MIDI foot controllers.
 
 ![MIDI Control Interface](./midi.png)
 
@@ -73,7 +72,7 @@ Unlike other tools, this is **not** just a MIDI mapper. It is a fully-featured, 
 ![Amp Tuner Control](./tuner.png)
 
 ### 8. Developer & Hacker Friendly
-* **Live USB Traffic Log:** Includes a built-in real-time packet analyzer. See the exact raw hexadecimal reports (`0x1c`, `0xc3`, `0xff`) being exchanged with your amplifier.
+* **Live USB Traffic Log:** Includes a built-in real-time packet analyzer. See the exact raw hexadecimal reports being exchanged with your amplifier.
 
 ## 📋 Compatibility & Browser Requirements
 
